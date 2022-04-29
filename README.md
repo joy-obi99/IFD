@@ -1,2 +1,2 @@
 # IFD
-https://naomiroxann.github.io/IFD/
+https://github.com/NaomiRoxann/IFD
